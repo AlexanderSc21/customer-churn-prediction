@@ -1,0 +1,8 @@
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+notebooks/.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
