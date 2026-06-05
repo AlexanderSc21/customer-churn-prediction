@@ -103,22 +103,6 @@ The selected model achieves a **ROC-AUC of 0.8382** and detects **77.8% of churn
 - **Target electronic check and paperless billing customers** with proactive outreach campaigns
 
 ---
-## Visualizations
-
-### Churn Distribution
-![Churn Distribution](images/01_churn_distribution.png)
-
-### Churn Rate by Categorical Variables
-![Categorical Variables](images/04_categorical_vs_churn.png)
-
-### Numerical Variables vs Churn
-![Numerical vs Churn](images/03_numerical_vs_churn.png)
-
-### Feature Importance — Logistic Regression Coefficients
-![Feature Importance](images/06_feature_importance_lr.png)
-
-### ROC Curve
-![ROC Curve](images/07_roc_curve.png)
 
 ## Technologies
 
