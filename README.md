@@ -133,4 +133,4 @@ pip install -r requirements.txt
 ## Author
 
 Alexander Sinte
-[GitHub](https://github.com/AlexanderSc21) · [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+[GitHub](https://github.com/AlexanderSc21) · [LinkedIn](https://www.linkedin.com/in/alexandersintecobenas)
